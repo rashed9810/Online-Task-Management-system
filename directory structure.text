@@ -1,0 +1,17 @@
+task-manager/
+│
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── utils/
+│   ├── server.js
+│   ├── .env
+│   └── package.json
+└── frontend/
+    ├── public/
+    ├── src/
+    ├── .env
+    └── package.json
